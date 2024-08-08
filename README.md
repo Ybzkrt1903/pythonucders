@@ -1,0 +1,2 @@
+# pythonucders
+İGÜ - İSTKA - SİBER AKADEMİ - VERİ YAPILARI VE ALGORİTMALAR DERSİNİN ÜÇÜNCÜ ÇIKTISIDIR.
